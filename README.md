@@ -22,6 +22,4 @@ Skills: HTML5 / CSS /  Bootstrap 5 / Tailwind CSS / JS / React JS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mehedy201)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mehedy201)  
-
 ![Profile views](https://gpvc.arturio.dev/mehedy201)  
